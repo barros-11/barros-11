@@ -17,7 +17,7 @@ I am a **Computer Engineering student** at the **University of Minho** with a **
 
 </div>
 <br>
-🚀Currently seeking a Summer 2026 Internship.
+🚀 Currently seeking a Summer 2026 Internship.
 
 ---
 
@@ -35,20 +35,3 @@ I am a **Computer Engineering student** at the **University of Minho** with a **
 ![Valgrind](https://img.shields.io/badge/Valgrind-%23333333.svg?style=for-the-badge&logoColor=white)
 * **Languages:** Portuguese (Native), English (C1 Advanced)
 
----
-
-### 🏆 Featured Work
-
-**[Clinic Automation Chatbot (Real-World Deployment)]**
-* **The Tech:** WhatsApp AI agent using **n8n** and **JavaScript** logic nodes.
-* **The Impact:** Reduced response time to ~10s and achieved **92.3% automated cancellations**, saving the client 14.6 hours of admin time in 3 months.
-
-**[High-Performance Flight Management System]**
-* **The Tech:** Built in **C** using **GLib Hash Tables** for O(1) retrieval.
-* **The Performance:** Sub-20ms query latency on 5M+ records with zero-leak memory safety (validated via Valgrind).
-
----
-
-### 🤝 Community & Mentorship
-* **Open Source:** Contributor at **CeSIUM** (CAOS).
-* **Mentorship:** Volunteer Mentor at **CoderDojo Braga**, teaching Python and algorithms to children.
