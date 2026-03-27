@@ -11,10 +11,6 @@ I am a **Computer Engineering student** at the **University of Minho** with a **
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
-  <a href="https://github.com/barros-11/barros-11/blob/main/cv.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-46a2f7?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV">
-  </a>
-
 </div>
 <br>
 🚀 Currently seeking a Summer 2026 Internship.
